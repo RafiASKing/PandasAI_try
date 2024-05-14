@@ -1,0 +1,15 @@
+Data terlengkap = CleanedTransformedFilled_data
+Data tanpa price dan sederhana tanpa day diff = mini_data.csv
+Data tanpa price dan sederhana = no_price_data.csv
+Data tanpa price total = simple_data.csv
+
+
+Cleaning:
+https://colab.research.google.com/drive/1ru4WNamNzKgWkocdMHMa9HHHxYE220Il#scrollTo=lXZQZ4tMMvuK
+
+Mini csv LLM progress:
+https://colab.research.google.com/drive/1UwHtar6HX187n4q7m6ALNBgMFGvsLiXx
+
+
+10 menit belajar panda:
+https://colab.research.google.com/drive/1ZnO-njhL7TBOYPZaqvMvGtsjckZKrv2E?usp=sharing#scrollTo=NckmeoK4-gXz
